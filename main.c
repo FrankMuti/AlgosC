@@ -1,8 +1,9 @@
 #include <stdio.h>
 
-
+#define N 200024
+#define i64 long long
 
 int main() {
-  printf("Hello, World!\n");
+
   return 0;
 }
